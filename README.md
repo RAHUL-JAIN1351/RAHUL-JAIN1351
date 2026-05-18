@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I’m Rahul Jain!<br><br>🚀 I’m currently working as a Frontend React Developer<br>💬 Ask me about: React, UI development, frontend architecture<br>📫 How to reach me: LinkedIn – /in/rahul-jain-5a3a74165<br>🎓 Pronouns: He/Him<br>⚡ Fun fact: When I’m not coding, I’m probably dancing or vibing to music.
+Hi there 👋<br><br>Nice meeting you, I’m Rahul Jain!<br><br>🚀 Ask me about: React, UI development, frontend architecture<br>📫 How to reach me: LinkedIn – /in/rahul-jain-5a3a74165<br>🎓 Pronouns: He/Him<br>⚡ Fun fact: When I’m not coding, I’m probably dancing or vibing to music.
 
 
 ## 🌐 Socials:
